@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/jaskoonersingh/code/venvs/ASK/bin/python"
+    "python.pythonPath": "/Users/jaskoonersingh/code/venvs/bbc-classifier/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
